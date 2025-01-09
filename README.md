@@ -13,6 +13,8 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
 ## Frameworks y Librerías
 - **Django**
 - **React**
+- **Bootstrap**
+- **DataTables.js**
 
 ## Herramientas y Tecnologías
 - **Git**
@@ -30,8 +32,8 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
 
 ### Proyectos Destacados
 - [Proyecto 1](https://github.com/guinovi/mgseg): Un sitio simple, para un proyecto de emprendimiento de cámaras de seguridad.
-- [Proyecto 2](https://github.com/guinovi/login-express-front-crud-bcrypt-dotenv): Un login con Node, express, mysql, bcrypt y dotenv.
-- [Proyecto 3](https://github.com/guinovi/crud-simple-no-front): CRUD, pruebas con thunder.
+- [Proyecto 2](https://github.com/guinovi/vinagre): La Vinagreta, una tienda en línea de vinos, construida con HTML, CSS y Vanilla JS.
+- [Proyecto 3](https://github.com/guinovi/login-express-front-crud-bcrypt-dotenv): Un login con Node, express, mysql, bcrypt y dotenv.
 - [Proyecto 4] (En etapa de prueba por razones de seguridad no puede ser publicado) software de gestión de una sala de armas - Con Electron, Node, express, bcrypt, sqlite3, cookie-parser, jsonwebtoken
 
 ### Página Web
