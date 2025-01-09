@@ -15,6 +15,8 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
 - **React**
 - **Bootstrap**
 - **DataTables.js**
+- **jQuery**
+- **pdfmake**
 
 ## Herramientas y Tecnologías
 - **Git**
@@ -34,7 +36,12 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
 - [Proyecto 1](https://github.com/guinovi/mgseg): Un sitio simple, para un proyecto de emprendimiento de cámaras de seguridad.
 - [Proyecto 2](https://github.com/guinovi/vinagre): La Vinagreta, una tienda en línea de vinos, construida con HTML, CSS y Vanilla JS.
 - [Proyecto 3](https://github.com/guinovi/login-express-front-crud-bcrypt-dotenv): Un login con Node, express, mysql, bcrypt y dotenv.
-- [Proyecto 4] (En etapa de prueba por razones de seguridad no puede ser publicado) software de gestión de una sala de armas - Con Electron, Node, express, bcrypt, sqlite3, cookie-parser, jsonwebtoken
+- [Proyecto 4](https://github.com/guinovi/login-express-front-crud-bcrypt-dotenv): Un login con Node, express, mysql, bcrypt y dotenv.
+- [Proyecto 5] (En etapa de prueba, por razones de seguridad no puede ser publicado) software de gestión de una sala de armas - 
+  - App Electron js
+  - Backend: Nodejs, express, bcrypt, cookie-parser, jsonwebtoken
+  - Base de datos: sqlite3
+  - Frontend: HTML, CSS, JS, jQuery, Bootstrap, DataTables, pdfmake
 
 ### Página Web
 Puedes visitar la página de MG: [MG Security](https://mgsecurty.netlify.app/)
