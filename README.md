@@ -42,7 +42,7 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
   - Backend: Node.js, Express, bcrypt, cookie-parser, jsonwebtoken
   - Base de datos: SQLite3
   - Frontend: HTML, CSS, JS, jQuery, Bootstrap, DataTables, pdfmake
-- [Proyecto 6](https://jugando-js.netlify.app/): Juegos clásicos de Tateti (Tic-Tac-Toe) y 4 en Línea (Connect Four), construidos con Vite.
+- [Proyecto 6](https://jugando-js.netlify.app/): Juegos clásicos de Tateti (Tic-Tac-Toe) y 4 en Línea (Connect Four), construidos con React.
 
 ### Página Web
 Puedes visitar la página de MG: [MG Security](https://mgsecurty.netlify.app/)
