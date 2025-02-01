@@ -33,15 +33,16 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
 - Mantenimiento y reparación de PC.
 
 ### Proyectos Destacados
-- [Proyecto 1](https://github.com/guinovi/mgseg): Un sitio simple, para un proyecto de emprendimiento de cámaras de seguridad.
+- [Proyecto 1](https://github.com/guinovi/mgseg): Un sitio simple, para un proyecto de emprendimiento de cámaras de seguridad, construido con Vanilla JS, HTML y CSS.
 - [Proyecto 2](https://github.com/guinovi/vinagre): La Vinagreta, una tienda en línea de vinos, construida con HTML, CSS y Vanilla JS.
-- [Proyecto 3](https://github.com/guinovi/crud-login): Un login con Node, express, mysql, bcrypt y dotenv.
+- [Proyecto 3](https://github.com/guinovi/crud-login): Un login con Node, Express, MySQL, bcrypt y dotenv.
 - [Proyecto 4](https://github.com/guinovi/crud-simple-no-front): Un CRUD SIMPLE - NO FRONT.
 - [Proyecto 5] (En etapa de prueba, por razones de seguridad no puede ser publicado) software de gestión de una sala de armas - 
-  - App Electron js
-  - Backend: Nodejs, express, bcrypt, cookie-parser, jsonwebtoken
-  - Base de datos: sqlite3
+  - App Electron JS
+  - Backend: Node.js, Express, bcrypt, cookie-parser, jsonwebtoken
+  - Base de datos: SQLite3
   - Frontend: HTML, CSS, JS, jQuery, Bootstrap, DataTables, pdfmake
+- [Proyecto 6](https://jugando-js.netlify.app/): Juegos clásicos de Tateti (Tic-Tac-Toe) y 4 en Línea (Connect Four), construidos con Vite.
 
 ### Página Web
 Puedes visitar la página de MG: [MG Security](https://mgsecurty.netlify.app/)
