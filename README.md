@@ -33,8 +33,8 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
 - Mantenimiento y reparación de PC.
 
 ### Proyectos Destacados
-- [Proyecto 1](https://github.com/guinovi/mgseg): Un sitio simple, para un proyecto de emprendimiento de cámaras de seguridad, construido con Vanilla JS, HTML y CSS.
-- [Proyecto 2](https://github.com/guinovi/vinagre): La Vinagreta, una tienda en línea de vinos, construida con HTML, CSS y Vanilla JS.
+- [Proyecto 1](https://guinovi.github.io/mgseg/): Un sitio simple, para un proyecto de emprendimiento de cámaras de seguridad, construido con Vanilla JS, HTML y CSS.
+- [Proyecto 2](https://guinovi.github.io/vinagre/): La Vinagreta, una tienda en línea de vinos, construida con HTML, CSS y Vanilla JS.
 - [Proyecto 3](https://github.com/guinovi/crud-login): Un login con Node, Express, SqLite, bcrypt y dotenv.
 - [Proyecto 4](https://github.com/guinovi/crud-simple-no-front): Un CRUD SIMPLE - NO FRONT.
 - [Proyecto 5] (En etapa de prueba, por razones de seguridad no puede ser publicado) software de gestión de una sala de armas - 
