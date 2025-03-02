@@ -43,4 +43,4 @@ Soy un Desarrollador Full Stack con experiencia en una amplia gama de tecnologí
   - Base de datos: SQLite3
   - Frontend: HTML, CSS, JS, jQuery, Bootstrap, DataTables, pdfmake
 - [Proyecto 6](https://jugando-js.netlify.app/): Juegos clásicos de Tateti (Tic-Tac-Toe) y 4 en Línea (Connect Four), construidos con React.
-
+- [Proyecto 7](https://ecomerc-react.netlify.app/): Ecomerce, construidos con Vite + React + Mui.
