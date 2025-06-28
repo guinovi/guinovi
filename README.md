@@ -1,63 +1,74 @@
-# ¡Hola, soy Guille!
+# 👋 ¡Hola! Soy **Guille**
 
-Soy un Desarrollador **Full Stack** con experiencia en una amplia gama de tecnologías y lenguajes de programación.
-
----
-
-## Lenguajes de Programación
-* **Python**
-* **JavaScript**
-* **SQL**
-* **HTML**
-* **CSS**
-* **Node.js**
-* **C#**
+Soy un **Desarrollador Full Stack** con experiencia construyendo soluciones web y de escritorio, integrando backend y frontend con distintas tecnologías y bases de datos.  
+Me apasiona aprender cosas nuevas, resolver problemas y convertir ideas en proyectos reales.
 
 ---
 
-## Frameworks y Librerías
-* **Django**
-* **React**
-* **Bootstrap**
-* **DataTables.js**
-* **jQuery**
-* **pdfmake**
+## 🚀 Tecnologías que uso
+
+### 🖥️ Lenguajes de Programación
+- **Python**
+- **JavaScript**
+- **C#**
+- **SQL**
+- **HTML**
+- **CSS**
+
+### ⚙️ Frameworks y Librerías
+- **Django**
+- **React**
+- **Express**
+- **Bootstrap**
+- **jQuery**
+- **DataTables.js**
+- **pdfmake**
+
+### 🛠️ Herramientas y Tecnologías
+- **Node.js**
+- **Git**
+- **Electron**
+- **bcrypt**
+- **sqlite3**
+- **cookie-parser**
+- **jsonwebtoken**
+- **MySQL**
+- **CCNA1**
+- **Seguridad de la información**
 
 ---
 
-## Herramientas y Tecnologías
-* **Git**
-* **CCNA1**
-* **Seguridad de la información y privacidad**
-* **Electron**
-* **Express**
-* **bcrypt**
-* **sqlite3**
-* **cookie-parser**
-* **jsonwebtoken**
-* **MySQL**
+## 📂 Proyectos Destacados
+
+Una selección de proyectos que reflejan mi experiencia:
+
+### 🌐 Desarrollo Web
+- [**MGSEG**](https://guinovi.github.io/mgseg/): Sitio informativo para un emprendimiento de cámaras de seguridad (Vanilla JS, HTML y CSS).
+- [**La Vinagreta**](https://guinovi.github.io/vinagre/): Tienda online de vinos (HTML, CSS, JavaScript).
+- [**Juegos Clásicos**](https://jugando-js.netlify.app/): Tateti y 4 en Línea desarrollados con React.
+- [**E-commerce React**](https://ecomerc-react.netlify.app/): Tienda online construida con Vite, React y Material-UI.
+
+### 🔒 Backend y Autenticación
+- [**CRUD Login**](https://github.com/guinovi/crud-login): Sistema de autenticación con Node.js, Express y SQLite.
+- [**CRUD Simple (No Front)**](https://github.com/guinovi/crud-simple-no-front): CRUD básico enfocado en la lógica del backend.
+
+### 🖥️ Aplicaciones de Escritorio y Gestión
+- [**Proyecto Integrador POO (C# & MySQL)**](https://github.com/m-o-i-f-t-s/proyecto-integrador-poo): Sistema de gestión para un club deportivo: registro de socios, cobros, carnets e informes.
+- **Software de Gestión** *(fase de prueba)*: App de escritorio construida con **Electron**, **Node.js** y SQLite3. Frontend con HTML, CSS, Bootstrap, jQuery y generación de reportes PDF.
 
 ---
 
-## Experiencia Adicional
-* Mantenimiento y reparación de PC.
+## 💡 Algo más sobre mí
+
+🔧 También tengo experiencia en **mantenimiento y reparación de PCs**, lo que me da una perspectiva integral de hardware y software.  
+💙 Disfruto compartir y colaborar en proyectos Open Source.  
+📚 Actualmente sigo perfeccionando mis habilidades, aprendiendo nuevas tecnologías y trabajando en proyectos propios.
 
 ---
 
-## Proyectos Destacados
+## 📫 ¿Hablamos?
 
-Aquí hay algunos de mis proyectos más destacados:
+Si quieres colaborar, tienes una idea o simplemente quieres saludar, no dudes en contactarme.  
+⭐ ¡Explora mis repos y no olvides dejar una estrella si algo te resulta útil!
 
-### Desarrollo Web
-* [**Proyecto 1 (MGSEG)**](https://guinovi.github.io/mgseg/): Un sitio simple para un proyecto de emprendimiento de cámaras de seguridad, construido con Vanilla JS, HTML y CSS.
-* [**Proyecto 2 (La Vinagreta)**](https://guinovi.github.io/vinagre/): Una tienda en línea de vinos, construida con HTML, CSS y Vanilla JS.
-* [**Proyecto 6 (Juegos Clásicos)**](https://jugando-js.netlify.app/): Juegos clásicos de Tateti (Tic-Tac-Toe) y 4 en Línea (Connect Four), construidos con React.
-* [**Proyecto 7 (E-commerce React)**](https://ecomerc-react.netlify.app/): Un e-commerce construido con Vite, React y Material-UI (MUI).
-
-### Backend y Autenticación
-* [**Proyecto 3 (CRUD Login)**](https://github.com/guinovi/crud-login): Un sistema de login desarrollado con Node.js, Express, SQLite, bcrypt y dotenv.
-* [**Proyecto 4 (CRUD Simple - No Front)**](https://github.com/guinovi/crud-simple-no-front): Una aplicación CRUD básica sin interfaz de usuario.
-
-### Aplicaciones de Escritorio y Sistemas de Gestión
-* [**Proyecto Integrador POO (C# & MySQL)**](https://github.com/m-o-i-f-t-s/proyecto-integrador-poo): Un software de gestión para un club deportivo, desarrollado en C# con una base de datos MySQL. Incluye registro de socios y no socios, cobro de cuotas o actividades, impresión de carnets y listas de vencimientos.
-* **Proyecto 5 (Software de Gestión)**: (Actualmente en fase de prueba; no puede ser publicado por razones de seguridad). Este software de gestión cuenta con una aplicación Electron JS para el frontend, un backend en Node.js con Express, bcrypt, cookie-parser y jsonwebtoken, y utiliza SQLite3 para la base de datos. El frontend está construido con HTML, CSS, JS, jQuery, Bootstrap, DataTables y pdfmake.
+---
