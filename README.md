@@ -17,6 +17,7 @@ Me apasiona aprender cosas nuevas, resolver problemas y convertir ideas en proye
 
 ### ⚙️ Frameworks y Librerías
 - **Django**
+- **Pandas**
 - **React**
 - **Express**
 - **Bootstrap**
